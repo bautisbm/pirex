@@ -1,0 +1,233 @@
+
+.container
+{
+	float:left;
+}
+
+.content
+{
+	float:left;
+	width:560px;
+	margin-left: 30px;
+}
+.logo
+{
+	margin-top: 10px;
+	margin-left: 10px;
+	float:left;
+}
+
+h1
+{
+	float: left;
+	font-family: sans-serif;
+	margin-top: 61px;
+	margin-left: 5px;
+	font-size: 48px;
+	
+}
+
+.decoration
+{
+	background-color: #aa0000;
+	width: 100%;
+	height: 60px;
+	float:left; 
+	box-shadow: 3px 3px 20px #464746;
+}
+
+#deco2
+{ 
+	float:left;
+	width: 600px;
+	height: 132px;
+	background-color: #aa0000;
+	box-shadow: 3px 3px 20px #464746;
+}
+
+#deco3
+{
+	float: left; 
+}
+
+h2
+{
+	float: left;
+	width:100%;
+	margin-left: 35px;
+	font-family: sans-serif;
+	font-size: 24px;
+	font-weight:bold;
+}
+
+#query
+{
+	float:left;
+	width: 400px;
+	/*border-style: solid;*/
+	margin-left: 65px;
+	margin-top: 15px;
+}
+
+h3
+{
+	border-bottom-color:black;
+	border-bottom-style: solid;
+	border-bottom-width: 30px;
+	box-shadow: 3px 3px 20px #464746;
+	width: 275px;
+}
+
+
+.fillspace
+{
+	width: 700px;
+	float:left;
+}
+
+video
+{
+	float: left;
+}
+
+.text
+{
+	margin-top: 50px;
+	width: 350px;
+	float: left;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+.text2
+{
+	width: 300px;
+}
+
+span
+{
+	font-size:18px;
+	font-weight: bold;
+	color: #aa0000;
+	font-family:sans-serif;
+}
+
+ul
+{
+	list-style-type:none;
+	padding-right: 45px;
+
+
+}
+
+li
+{
+	font-family:sans-serif;
+	font-size:16px;
+
+}
+
+.box
+{
+	height: 325px;
+	width: 330px;
+	background-color:black;
+	float: left;
+	text-align: center;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	box-shadow: 3px 3px 20px #464746;
+
+}
+
+.symbol
+{
+	font-size: 120px;
+	font-family:sans-serif;
+	color: white;
+	margin-top: 40px; 
+
+}
+
+.symbol1
+{
+	font-size: 90px;
+	font-family:sans-serif;
+	color: white;
+	margin-top: 40px; 
+}
+
+#fix
+{
+	float:left;
+	width:400;
+	margin-left: 50px;
+	margin-top: 15px;
+
+}
+
+h5
+{
+	font-size: 24px;
+	color: white;
+	font-family:sans-serif;
+	margin-top: -165px;
+}
+
+.symbolup
+{
+	margin-top: -90px;
+}
+
+.whitetxt
+{
+	color:white;
+	font-family:sans-serif;
+	font-size: 16px;
+	margin-top: -14px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#shift
+{
+	margin-left: 30px;
+	float:left;
+}
+
+.screenCaption
+{
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin-left: 30px;
+	margin-top: 15px;
+	font-family: sans-serif;
+	font-size: 16px;
+
+
+}
+
+.screenshots
+{
+	float: left;
+	margin-left: 30px;
+	margin-top: 15px;
+	display: block;
+	box-shadow: 3px 3px 20px #464746;
+
+}
+
+.row
+{
+	width: 900px;
+    height:600px;
+
+}
+
+.btm
+{
+	margin-bottom:15px; 
+}
+
+

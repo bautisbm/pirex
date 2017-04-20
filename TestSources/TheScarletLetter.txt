@@ -1,0 +1,262 @@
+The Project Gutenberg EBook of The Scarlet Letter, by Nathaniel Hawthorne
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Scarlet Letter
+
+Author: Nathaniel Hawthorne
+
+Posting Date: December 18, 2011 [EBook #33]
+Release Date: February, 1992
+Last Updated: May 18, 2005
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***
+
+
+
+
+Produced by Dartmouth College
+
+
+
+
+
+
+
+
+
+
+THE SCARLET LETTER
+
+by Nathaniel Hawthorne
+
+
+
+EDITOR'S NOTE
+
+Nathaniel Hawthorne was already a man of forty-six, and a tale
+writer of some twenty-four years' standing, when "The Scarlet
+Letter" appeared.  He was born at Salem, Mass., on July 4th, 1804,
+son of a sea-captain.  He led there a shy and rather sombre life;
+of few artistic encouragements, yet not wholly uncongenial, his
+moody, intensely meditative temperament being considered.  Its
+colours and shadows are marvelously reflected in his "Twice-Told
+Tales" and other short stories, the product of his first literary
+period.  Even his college days at Bowdoin did not quite break
+through his acquired and inherited reserve; but beneath it all,
+his faculty of divining men and women was exercised with almost
+uncanny prescience and subtlety.  "The Scarlet Letter," which
+explains as much of this unique imaginative art, as is to be
+gathered from reading his highest single achievement, yet needs
+to be ranged with his other writings, early and late, to have its
+last effect.  In the year that saw it published, he began "The
+House of the Seven Gables," a later romance or prose-tragedy of
+the Puritan-American community as he had himself known it--
+defrauded of art and the joy of life, "starving for symbols" as
+Emerson has it.  Nathaniel Hawthorne died at Plymouth, New
+Hampshire, on May 18th, 1864.
+
+The following is the table of his romances,
+stories, and other works:
+
+Fanshawe, published anonymously, 1826; Twice-Told Tales, 1st
+Series, 1837; 2nd Series, 1842; Grandfather's Chair, a history
+for youth, 1845: Famous Old People (Grandfather's Chair), 1841
+Liberty Tree: with the last words of Grandfather's Chair, 1842;
+Biographical Stories for Children, 1842; Mosses from an Old
+Manse, 1846; The Scarlet Letter, 1850; The House of the Seven
+Gables, 1851: True Stories from History and Biography (the whole
+History of Grandfather's Chair), 1851 A Wonder Book for Girls and
+Boys, 1851; The Snow Image and other Tales, 1851: The Blithedale
+Romance, 1852; Life of Franklin Pierce, 1852; Tanglewood Tales
+(2nd Series of the Wonder Book), 1853; A Rill from the Town-Pump,
+with remarks, by Telba, 1857; The Marble Faun; or, The Romance of
+Monte Beni (4 EDITOR'S NOTE) (published in England under the
+title of "Transformation"), 1860, Our Old Home, 1863; Dolliver
+Romance (1st Part in "Atlantic Monthly"), 1864; in 3 Parts, 1876;
+Pansie, a fragment, Hawthorne' last literary effort, 1864;
+American Note-Books, 1868; English Note Books, edited by Sophia
+Hawthorne, 1870; French and Italian Note Books, 1871; Septimius
+Felton; or, the Elixir of Life (from the "Atlantic Monthly"),
+1872; Doctor Grimshawe's Secret, with Preface and Notes by
+Julian Hawthorne, 1882.
+
+Tales of the White Hills, Legends of New England, Legends of the
+Province House, 1877, contain tales which had already been
+printed in book form in "Twice-Told Tales" and the "Mosses"
+"Sketched and Studies," 1883.
+
+Hawthorne's contributions to magazines were numerous, and most of
+his tales appeared first in periodicals, chiefly in "The Token,"
+1831-1838, "New England Magazine," 1834,1835; "Knickerbocker,"
+1837-1839; "Democratic Review," 1838-1846; "Atlantic Monthly,"
+1860-1872 (scenes from the Dolliver Romance, Septimius Felton,
+and passages from Hawthorne's Note-Books).
+
+Works: in 24 volumes, 1879; in 12 volumes, with introductory
+notes by Lathrop, Riverside Edition, 1883.
+
+Biography, etc.; A. H. Japp (pseud.  H. A. Page), Memoir of N.
+Hawthorne, 1872; J. T. Field's "Yesterdays with Authors," 1873 G.
+P. Lathrop, "A Study of Hawthorne," 1876; Henry James English Men
+of Letters, 1879; Julian Hawthorne, "Nathaniel Hawthorne and his
+wife," 1885; Moncure D. Conway, Life of Nathaniel Hawthorne,
+1891; Analytical Index of Hawthorne's Works, by E. M. O'Connor
+1882.
+
+
+CONTENTS
+
+    INTRODUCTORY.     THE CUSTOM-HOUSE
+
+    CHAPTER I.        THE PRISON-DOOR
+
+    CHAPTER II.       THE MARKET-PLACE
+
+    CHAPTER III.      THE RECOGNITION
+
+    CHAPTER IV.       THE INTERVIEW
+
+    CHAPTER V.        HESTER AT HER NEEDLE
+
+    CHAPTER VI.       PEARL
+
+    CHAPTER VII.      THE GOVERNOR'S HALL
+
+    CHAPTER VIII.     THE ELF-CHILD AND THE MINISTER
+
+    CHAPTER IX.       THE LEECH
+
+    CHAPTER X.        THE LEECH AND HIS PATIENT
+
+    CHAPTER XI.       THE INTERIOR OF A HEART
+
+    CHAPTER XII.      THE MINISTER'S VIGIL
+
+    CHAPTER XIII.     ANOTHER VIEW OF HESTER
+
+    CHAPTER XIV.      HESTER AND THE PHYSICIAN
+
+    CHAPTER XV.       HESTER AND PEARL
+
+    CHAPTER XVI.      A FOREST WALK
+
+    CHAPTER XVII.     THE PASTOR AND HIS PARISHIONER
+
+    CHAPTER XVIII.    A FLOOD OF SUNSHINE
+
+    CHAPTER XIX.      THE CHILD AT THE BROOK-SIDE
+
+    CHAPTER XX.       THE MINISTER IN A MAZE
+
+    CHAPTER XXI.      THE NEW ENGLAND HOLIDAY
+
+    CHAPTER XXII.     THE PROCESSION
+
+    CHAPTER XXIII.    THE REVELATION OF THE SCARLET LETTER
+
+    CHAPTER XXIV.     CONCLUSION
+
+
+
+
+THE CUSTOM-HOUSE
+
+INTRODUCTORY TO "THE SCARLET LETTER"
+
+
+It is a little remarkable, that--though disinclined to talk
+overmuch of myself and my affairs at the fireside, and to my
+personal friends--an autobiographical impulse should twice in my
+life have taken possession of me, in addressing the public.  The
+first time was three or four years since, when I favoured the
+reader--inexcusably, and for no earthly reason that either the
+indulgent reader or the intrusive author could imagine--with a
+description of my way of life in the deep quietude of an Old
+Manse.  And now--because, beyond my deserts, I was happy enough
+to find a listener or two on the former occasion--I again seize
+the public by the button, and talk of my three years' experience
+in a Custom-House.  The example of the famous "P. P., Clerk of
+this Parish," was never more faithfully followed.  The truth
+seems to be, however, that when he casts his leaves forth upon
+the wind, the author addresses, not the many who will fling
+aside his volume, or never take it up, but the few who will
+understand him better than most of his schoolmates or lifemates.
+Some authors, indeed, do far more than this, and indulge
+themselves in such confidential depths of revelation as could
+fittingly be addressed only and exclusively to the one heart and
+mind of perfect sympathy; as if the printed book, thrown at
+large on the wide world, were certain to find out the divided
+segment of the writer's own nature, and complete his circle of
+existence by bringing him into communion with it.  It is scarcely
+decorous, however, to speak all, even where we speak
+impersonally.  But, as thoughts are frozen and utterance
+benumbed, unless the speaker stand in some true relation with
+his audience, it may be pardonable to imagine that a friend, a
+kind and apprehensive, though not the closest friend, is
+listening to our talk; and then, a native reserve being thawed
+by this genial consciousness, we may prate of the circumstances
+that lie around us, and even of ourself, but still keep the
+inmost Me behind its veil.  To this extent, and within these
+limits, an author, methinks, may be autobiographical, without
+violating either the reader's rights or his own.
+
+It will be seen, likewise, that this Custom-House sketch has a
+certain propriety, of a kind always recognised in literature, as
+explaining how a large portion of the following pages came into
+my possession, and as offering proofs of the authenticity of a
+narrative therein contained.  This, in fact--a desire to put
+myself in my true position as editor, or very little more, of
+the most prolix among the tales that make up my volume--this,
+and no other, is my true reason for assuming a personal relation
+with the public.  In accomplishing the main purpose, it has
+appeared allowable, by a few extra touches, to give a faint
+representation of a mode of life not heretofore described,
+together with some of the characters that move in it, among whom
+the author happened to make one.
+
+In my native town of Salem, at the head of what, half a century
+ago, in the days of old King Derby, was a bustling wharf--but
+which is now burdened with decayed wooden warehouses, and
+exhibits few or no symptoms of commercial life; except, perhaps,
+a bark or brig, half-way down its melancholy length, discharging
+hides; or, nearer at hand, a Nova Scotia schooner, pitching out
+her cargo of firewood--at the head, I say, of this dilapidated
+wharf, which the tide often overflows, and along which, at the
+base and in the rear of the row of buildings, the track of many
+languid years is seen in a border of unthrifty grass--here, with
+a view from its front windows adown this not very enlivening
+prospect, and thence across the harbour, stands a spacious
+edifice of brick.  From the loftiest point of its roof, during
+precisely three and a half hours of each forenoon, floats or
+droops, in breeze or calm, the banner of the republic; but with
+the thirteen stripes turned vertically, instead of horizontally,
+and thus indicating that a civil, and not a military, post of
+Uncle Sam's government is here established.  Its front is
+ornamented with a portico of half-a-dozen wooden pillars,
+supporting a balcony, beneath which a flight of wide granite
+steps descends towards the street.  Over the entrance hovers an
+enormous specimen of the American eagle, with outspread wings, a
+shield before her breast, and, if I recollect aright, a bunch of
+intermingled thunderbolts and barbed arrows in each claw.  With
+the customary infirmity of temper that characterizes this
+unhappy fowl, she appears by the fierceness of her beak and eye,
+and the general truculency of her attitude, to threaten mischief
+to the inoffensive community; and especially to warn all
+citizens careful of their safety against intruding on the
+premises which she overshadows with her wings.  Nevertheless,
+vixenly as she looks, many people are seeking at this very
+moment to shelter themselves under the wing of the federal
+eagle; imagining, I presume, that her bosom has all the softness
+and snugness of an eiderdown pillow.  But she has no great
+tenderness even in her best of moods, and, sooner or
+later--oftener soon than late--is apt to fling off her nestlings
+with a scratch of her claw, a dab of her beak, or a rankling
+wound from her barbed arrows.

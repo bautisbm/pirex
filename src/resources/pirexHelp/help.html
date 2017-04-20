@@ -1,0 +1,208 @@
+<!DOCTYPE html> <html> 
+<head> 
+<title> Home </title> 
+<link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="images/favicon.ico"/>
+
+</head> 
+
+<body> 
+
+<div id="container">
+
+<header> 
+<img class="logo" src="Pirex_Logo.png" width=300 height=100 alt="Pirex logo">
+<h1> HELP</h1>
+</header>
+
+<div class = "decoration"> </div>
+
+<div class = "content">
+<h2> OVERVIEW </h2> 
+</br>
+<video width="540" height="380" controls>
+  <source src="PirexBasicFunction.mov" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
+<div class ="text">
+<p >
+<span>What is Pirex?</span> Pirex allows users to input arbitrary plain-text documents. It indexes and stores input texts permanently in the file system so they can be searched later. It allows users to enter queries to retrieve paragraphs from stored texts matching the queries, and displays retrieved paragraphs to users. This video briefly goes over the basic functionality of Pirex. It will show you how to load documents, remove documents, and perform queries. 
+</p>
+<h3> </h3>
+</div>
+
+<div id = "deco2"></div>
+
+<div id = "fix" >
+<h2> QUERIES </h2>
+<div class = "box">
+<h4 class ="symbol1"> word </h4>
+<h5 class ="symbolup"> Basic Query </h5>
+<p class = "whitetxt"> 
+A single word or multiple words 
+</br>  
+<span>ex) english class</span>
+</p>
+</div>
+
+<div class = "box">
+<h4 class ="symbol"> * </h4>
+<h5> Wildcard Query </h5>
+<p class = "whitetxt"> 
+The first letter or letters of the word you want to search with a star on the end
+</br>  
+<span>ex) shar*</span>
+</p>
+</div>
+
+<div class = "box">
+<h4 class ="symbol"> ~ </h4>
+<h5> Negation Query</h5>
+<p class = "whitetxt"> 
+A word you don't want to appear in your results preceeded by a ~ symbol
+</br>  
+<span>ex) ~Bernstein</span>
+</p>
+
+</div>
+
+<div class = "box">
+<h4 class ="symbol"> ? </h4>
+<h5> Variation Query</h5>
+<p class = "whitetxt"> 
+Swap out a character in a word for a question mark to get words with different letters in place of the question mark
+</br>  
+<span>ex) c?te</span>
+</p>
+</div>
+
+<div class = "box">
+<h4 class ="symbol"> ^ </h4>
+<h5> Adjacency Query </h5>
+<p class = "whitetxt"> 
+Put the carrot symbol between terms in order to yield results where all the terms are found next to each other
+</br>  
+<span>ex) there's^always^more^to^learn </span>
+</div>
+
+<div class = "box">
+<h4 class ="symbol1"> ?^*~ </h4>
+<h5 class ="symbolup"> Combined Query </h5>
+<p class = "whitetxt"> 
+All of these symbols can be used in conjunction with one another in a single query
+</br>  
+<span>ex) the^dog fi* s?me ~fun crab </span>
+</div>
+
+
+</div> <!--end of boxes -->
+<div id = "deco2"></div>
+<div class = "fillspace" >
+<h3 > </h3>
+</div>
+
+<div>
+<h2 id = "shift"> SAVE QUERIES </h2>
+</div>
+
+
+<div class = "row">
+<img  class = "screenshots" src = "1_Pirex_Save.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption">
+<p class = "screenCaption">
+<span>Step 1</span> <strong>Enter the terms you would like to search for. </strong></br> </br>You can use any combination of the symbols in order to refine your search and yield the specific results you are interested in finding. The purpose of this feature is so that if you were to write out a long and complicated query, you would be able to save it in a folder created by Pirex so that you could reload it later on.  
+</p>
+</div>
+
+
+<div class = "row">
+<img  class = "screenshots" src = "2_Pirex_Save.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption">
+<p class = "screenCaption">
+<span>Step 2</span> <strong>Go to File > Save Query </strong></br> </br>Once you complete this action, Pirex will automatically create a folder on your Desktop named "pirexData" that will create another folder inside of itself called "saves" where it will save your query. 
+</div>
+
+<div class = "row">
+<img  class = "screenshots" src = "3_Pirex_Save.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption"
+<p class = "screenCaption">
+<span>Step 3</span> <strong>Rename your query to be saved </strong></br> </br>You can either choose to save your query to the folder that Pirex automatically generates, or you can save your queries to a different folder that you have created yourself. When you open up that folder you will fine a plain text file with the contents of your query saved. 
+</p>
+</div>
+
+<h2> LOAD QUERIES </h2>
+<div class = "row">
+<img  class = "screenshots" src = "1_Pirex_LoadQueries.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption"
+<p class = "screenCaption">
+<span>Step 1</span> <strong>Go to File > Load Queries</strong></br> </br>Direct to the folder in which you had previously saved your query, select the query you would like to load, and then press Open.  
+</p>
+</div>
+
+<div class = "row">
+<img  class = "screenshots" src = "3_Pirex_LoadQueries.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption"
+<p class = "screenCaption">
+<span>Step 2</span> <strong>View Results </strong></br> </br>You will see the previous results that were rendered when you first entered the saved query. This enables you to save long searches and then load them back in so you don't have to remember or retype them.
+</p>
+</div>
+
+
+<h2> EXPORT QUERY RESULTS </h2>
+<div class = "row">
+<img  class = "screenshots" src = "1_Pirex_Export.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption"
+<p class = "screenCaption">
+<span>Step 2</span> <strong>Go to File > Export Results </strong></br> </br>You will see the previous results that were rendered when you first entered the saved query. This enables you to save long searches and then load them back in so you don't have to remember or retype them.
+</p>
+</div>
+
+<div class = "row">
+<img  class = "screenshots" src = "2_Pirex_Export.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption"
+<p class = "screenCaption">
+<span>Step 2</span> <strong>Automatically Saves </strong></br> </br>Pirex will automatically save the results of your query to a folder inside of "pirexData" named "exports." 
+</p>
+</div>
+
+<div class = "row">
+<img  class = "screenshots" src = "3_Pirex_Export.png" width = "500" alt = "An image of the screen displaying a query and the results from that query">
+</div>
+
+<div class = "screenCaption btm"
+<p class = "screenCaption">
+<span>Step 2</span> <strong>View Results </strong></br> </br>Once you navigate to the folder where your results were saved, you will find that a plain text file of the results has been saved and can be opened in any word processor.  
+</p>
+
+
+</div>
+
+<div id = "deco3">
+
+<h3> </h3>
+
+<div id = "deco2"></div>
+
+</div>
+
+</div><!--end of container-->
+
+
+</body>
+</html>
